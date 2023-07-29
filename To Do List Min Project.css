@@ -1,0 +1,37 @@
+.container {
+    background-color: darkblue;
+    height:800px;
+    width: 500px;
+    margin: 7%;
+}
+
+.header {
+    text-align: center;
+    font-family:monospace;
+    color: white;
+}
+
+#addTask {
+    width: 70%;
+    height:47px;
+}
+
+#addTaskButton {
+    width: 29%;
+    margin-bottom: 5px;
+}
+
+#listOfTask{
+    width: 99%;
+    font-size: large;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.card{
+    margin-top: 5px;
+    margin-bottom: 5px;    
+    color: black;
+}
+.card:hover{
+    background-color:grey;
+}
